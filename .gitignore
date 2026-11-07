@@ -1,0 +1,10 @@
+/build/
+*.mot
+*.abs
+*.map
+*.obj
+*.o
+*.log
+*.TFT
+.vs/
+.vscode/
